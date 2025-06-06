@@ -38,3 +38,8 @@ v  Run this command in the command prompt:
  
 
 v  Restart the laptop. You will now see an Administrator account on the login screen. Log in using the password you just set, and full access is granted — no prior credentials required
+
+
+
+
+## For more information about this Bug Mail me on : ch.saadirafiq804@gmail.com ## 

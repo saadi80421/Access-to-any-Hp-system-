@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/de72dfd4-c49a-466a-8565-f33502208766)# Access-to-any-Hp-system-
+Access to Any laptop or computer
 Using this method allow any individual to access any Laptop or Computer that hace HP BIOS installed on it 
 
 Background story:
